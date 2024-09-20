@@ -1,1 +1,1 @@
-this repository is alla about Python Programing.
+this repository is all about Python Programing.
